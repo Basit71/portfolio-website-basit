@@ -11,7 +11,7 @@ function Project() {
     {
       name: "Shoe-commerce UI",
       image: "/project2.jpg",
-      link: "https://e-commarce-g7zo.vercel.app/",
+      link: "https://e-commarce-iota.vercel.app/",
     },
     
   ];
